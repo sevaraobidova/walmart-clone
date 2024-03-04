@@ -24,7 +24,7 @@ export default function Header() {
     <header className="flex bg-walmart px-10 py-7 space-x-5 items-center flex-col md:flex-row">
       <Link href="/" className="mb-5 md:mb-0">
         <Image
-          src="http://links.papareact.com/yur"
+          src="https://i.imgur.com/5V4wehM.png"
           alt="logo"
           width={150}
           height={150}
